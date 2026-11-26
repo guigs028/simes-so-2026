@@ -1,0 +1,9 @@
+ocupacao_logica,padrao,gravacoes_host,paginas_programadas,apagamentos,amplificacao_escrita,tempo_medio_gravacao_ms
+0.5,uniforme,160000,187710,2650,1.1732,0.2638
+0.75,uniforme,160000,289406,4364,1.8088,0.4229
+0.9,uniforme,160000,510651,7896,3.1916,0.7671
+1.0,uniforme,160000,1166143,18188,7.2884,1.7854
+0.5,quente_frio,160000,213788,3058,1.3362,0.3043
+0.75,quente_frio,160000,317696,4806,1.9856,0.4668
+0.9,quente_frio,160000,545472,8440,3.4092,0.8212
+1.0,quente_frio,160000,1213887,18934,7.5868,1.8595

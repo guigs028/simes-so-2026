@@ -1,0 +1,19 @@
+{
+  "integrantes": [
+    {
+      "nome": "Guilherme Dentzien Silva"
+    }
+  ],
+  "repositorio": "https://github.com/guigs028/simes-so-2026",
+  "modulos": [
+    "M1",
+    "M2",
+    "M3",
+    "M4",
+    "M5",
+    "M6"
+  ],
+  "integracao": true,
+  "bonus_flash": true,
+  "observacoes": "Hipóteses registradas antes da análise em hipoteses.md. Experimento extra do flash (dispositivo pré-condicionado) em experimentos_extras.py, declarado na seção X13 do relatório."
+}
